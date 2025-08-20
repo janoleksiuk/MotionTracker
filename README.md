@@ -3,6 +3,7 @@
 Real-time multi-sensory human upper limb motion recording system based on STM32 microcontroller.
 
 ---
+## Overview
 
 This project implements a real-time motion registration system using the **STM32 NUCLEO-L476RG** microcontroller. It interfaces with up to **five incremental optical encoders**, logs time-synchronized position data to an **SD card**, and optionally streams the data via **UART**.
 
